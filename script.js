@@ -1,6 +1,6 @@
 
 
-let mobileNavBtn = document.querySelector("#mobile-nav-btn").addEventListener('click', mobileNav);
+let mobileNavBtn = document.querySelector("#mobile-nav-icon").addEventListener('click', mobileNav);
 
 let mobileMenu = Array.from(document.querySelectorAll(".drop-down-header"));
 
